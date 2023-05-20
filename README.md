@@ -1,0 +1,1 @@
+Exports a function, that logs 'Hello NPM!'
