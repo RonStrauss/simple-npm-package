@@ -1,0 +1,17 @@
+{
+  "name": "simple-npm-package",
+  "version": "1.0.0",
+  "description": "Simply logs 'Hello NPM!' to the console when run",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonStrauss/simple-npm-package"
+  },
+  "keywords": [],
+  "author": "Ron Strauss <ron.strauss.work@gmail.com>",
+  "license": "ISC"
+}
